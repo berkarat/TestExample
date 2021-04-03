@@ -29,6 +29,7 @@ namespace Example_01.Controllers
         public IActionResult Privacy()
         {
             //Comment
+            //MASTER UPDATES
             return View();
         }
 
