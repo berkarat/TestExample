@@ -22,8 +22,13 @@ namespace Example_01.Controllers
         {
             return View();
         }
+        /// <summary>
+        ///     Summary  
+        /// </summary>
+        /// <returns></returns>
         public IActionResult Privacy()
         {
+            //Comment
             return View();
         }
 
