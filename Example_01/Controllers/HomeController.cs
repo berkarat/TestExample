@@ -28,6 +28,8 @@ namespace Example_01.Controllers
         /// <returns></returns>
         public IActionResult Privacy()
         {
+
+            // BRANCH-1 DEVELOP
             //Comment
             //MASTER UPDATES
             return View();
